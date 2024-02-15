@@ -1,2 +1,3 @@
 # project1
-first repo
+first repository
+
